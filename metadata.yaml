@@ -1,10 +1,13 @@
 _repo: Aloys_51596
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Walker
     gutenberg_agent_id: '46614'
     url: http://www.gutenberg.org/2009/agents/46614
+covers:
+- cover_type: archival
+  image_path: 51596-h/images/cover.jpg
 creator:
   author:
     agent_name: Lafferty, R. A.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25720
     wikipedia: http://en.wikipedia.org/wiki/R.A._Lafferty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51596#Aloys
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-29'
 gutenberg_type: Text
